@@ -2,16 +2,16 @@
 
 ### Over View Dashboard
 
-![Campaigns Dashboard](Dashboards/Over_View.png)
+![Over View Dashboard](Dashboards/Over_View.png)
 
 ### Details Dashboard
 
-![Customers Dashboard](Dashboards/details.png)
+![Details Dashboard](Dashboards/Details.png)
 
 
 ## Excel Dashboard
 
-![Marketing Campaign Dashboard](Dashboards/Excel.png)
+![Crowdedness Dashboard](Dashboards/Excel.png)
 
 
 ## Data Model
